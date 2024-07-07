@@ -3,5 +3,4 @@
 - ==git== clone
 - created this file
 # To do
-- commit this file
 - push it to my remote repository
